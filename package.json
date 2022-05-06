@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-10-projects",
+  "version": "1.0.0",
+  "description": "simple web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadpool20399/Learn-Nodejs-with-10-projects.git"
+  },
+  "keywords": [],
+  "author": "Avinash Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deadpool20399/Learn-Nodejs-with-10-projects/issues"
+  },
+  "homepage": "https://github.com/deadpool20399/Learn-Nodejs-with-10-projects#readme"
+}
